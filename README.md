@@ -55,7 +55,7 @@ References:
 Refer to the detailed list of 20+ academic references in the final report, covering resume parsing, ATS scoring, GPT-based feedback, and job recommendation research methodologies.  
   
 Contributors  
-Yashashwini Devineni – Project Lead | AI & NLP Modules  
+Yashashwini Devineni – AI & NLP Modules  
 Sai Venkata Anil Thota – Resume Classification & ATS System  
 Vrunda Teeleru – Feedback & Recommendation Logic  
 Sravani Kudumula – Data Processing & Evaluation  
